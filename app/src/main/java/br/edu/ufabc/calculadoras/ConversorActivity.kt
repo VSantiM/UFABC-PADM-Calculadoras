@@ -14,7 +14,7 @@ class ConversorActivity : AppCompatActivity() {
     override fun onStart() {
         super.onStart()
 
-        val buttonCtoF = findViewById<Button>(R.id.buttonCtoF)
+        val buttonCtoF = findViewById<Button>(R.id.buttonCalcular)
         val buttonFtoC = findViewById<Button>(R.id.buttonFtoC)
 
 

@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         buttonChangeCalculadora.setOnClickListener {
-            val myIntent = Intent(this, ConversorActivity::class.java)
+            val myIntent = Intent(this, CalculadoraActivity::class.java)
             startActivity(myIntent)
         }
     }

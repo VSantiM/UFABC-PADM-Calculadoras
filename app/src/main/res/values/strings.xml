@@ -3,4 +3,8 @@
     <string name="buttoCtoFValue">Cº to Fº</string>
     <string name="buttonFtoCValue">Fº to Cº</string>
     <string name="inputConversorValue">Type temperature to convert...</string>
+    <string name="buttonCalcularValue">Calcular</string>
+    <string name="digite_a_dist_ncia_percorrida">Digite a distância percorrida:</string>
+    <string name="capacidade_do_tanque">Capacidade do tanque:</string>
+    <string name="porcentagem_do_tanque_remanescente">Porcentagem do tanque remanescente:</string>
 </resources>
